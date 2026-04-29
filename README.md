@@ -24,7 +24,6 @@
   - Тесты: SQLite в памяти
 - **Тестирование**: `pytest`, `pytest-asyncio`, `httpx`
 - **Валидация**: Pydantic
-- **Логирование**: Python `logging`
 - **Контейнеризация**: Docker (опционально, с `docker-compose` для PostgreSQL)
 
 ## Установка
